@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "dd38",
+      "name": "malibu",
+      "price": "120000",
+      "description": "chevrolet malibu",
+      "category": "avtomobil"
+    },
+    {
+      "id": "4b9a",
+      "name": "salom",
+      "price": "27",
+      "description": "axcvbn ",
+      "category": "avtomobil"
+    }
+  ],
+  "categories": [
+    {
+      "id": "51d2",
+      "name": "avtomobil"
+    }
+  ],
+  "registerUser": [
+    {
+      "id": "7e96",
+      "name": "abdulaziz",
+      "phone": "978008689"
+    }
+  ]
+}
